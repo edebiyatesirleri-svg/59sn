@@ -1,0 +1,6 @@
+{
+  "name": "59 Saniyede Ülke Gündemi",
+  "description": "Türkiye ve dünya gündemini 59 saniyede hızlıca kaydırarak, sesli ve görsel özetle takip edebileceğiniz modern haber akışı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
